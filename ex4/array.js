@@ -20,6 +20,5 @@ for (let i = array.length; i >= 0; i--) {
         console.log(`${ar}`);
     }
     else {
-
     }
 }
